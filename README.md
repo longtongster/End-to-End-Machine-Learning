@@ -3,4 +3,4 @@ Repository is used to summarize steps in the ML life-cycle and also have as a re
 
 ## Tools
 
-Tools to use `mlflow`, `gradio`, the latex parser etc, etc
+Tools to use `docker`, `dvc`, `mlflow`, `mlflow`, `gradio`, the latex parser, `flake8`, `blake`, `mypy` etc, etc
